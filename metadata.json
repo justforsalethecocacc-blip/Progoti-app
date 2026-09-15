@@ -1,0 +1,6 @@
+{
+  "name": "Progoti Invoice",
+  "description": "Create, customize, calculate taxes, preview, print, and manage Full Invoices, Delivery Challans, and Simple Invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
